@@ -1,0 +1,19 @@
+.list{
+    background-color: white;
+    color: black;
+    width: 70%;
+    margin: 5px auto;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+
+    margin-top: -1.3px; 
+    line-height: 5px;
+    display: block;
+    position: relative;
+    line-height: 1px;  
+}
+
